@@ -38,7 +38,9 @@ __Machine Learning/Deep Learning__ \
 
 __Blogs__\
 <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+
 https://chiraagkv.medium.com/
+
 <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 
 
