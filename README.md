@@ -8,7 +8,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying in 9th grade.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning.\
-✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com/.\
+✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com/.
+
 ✉️ &nbsp;You can shoot me an email at chiraagkv@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
