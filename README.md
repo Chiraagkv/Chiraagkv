@@ -3,7 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Chiraag -->
 
-### 👨🏻‍💻 &nbsp;About Me
+# 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying in 9th grade.\
@@ -14,7 +14,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-### 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -39,6 +39,13 @@ __Exploring__ \
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
 
-__Blogs__\
-<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+# Socials
+[![GitHub Chiraag KV](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Chiraagkv)
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiraagkv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiraag-k-v-b55572216/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Chiraag#9212)
+[![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chiraag72940315)
+[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/chiraagkv)
+[![Replit](https://img.shields.io/badge/Replit.com-1D2021?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Chiraag)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://chiraagkv.medium.com/)
 
