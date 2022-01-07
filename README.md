@@ -25,6 +25,7 @@ __Frameworks and libraries__ \
 <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white"/>&nbsp;
 
 
+
 __IDEs/Editors__ \
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
