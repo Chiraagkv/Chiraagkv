@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying in high school.\
 🌱 &nbsp;I'm playing around Machine Learning.\
 ✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com. \
