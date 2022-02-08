@@ -40,6 +40,7 @@ __Machine Learning/Deep Learning__ \
 __Exploring__ \
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 # Socials
 [![GitHub Chiraag KV](https://img.shields.io/github/followers/yashppawar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Chiraagkv)
