@@ -8,7 +8,7 @@
 
 💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying in high school.\
-🌱 &nbsp;I'm playing around Machine Learning.\
+🌱 &nbsp;I'm playing around with Machine Learning.\
 ✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com. \
 ✉️ &nbsp;You can shoot me an email at chiraagkv@gmail.com! I'll try to respond as soon as I can.
 
