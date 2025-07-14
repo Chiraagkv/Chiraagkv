@@ -7,7 +7,7 @@
 # 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying in college.\
 🌱 &nbsp;I'm playing around with Machine Learning.\
-✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com. \
+✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com.
 
 
 
