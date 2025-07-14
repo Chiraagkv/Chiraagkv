@@ -5,14 +5,10 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Chiraag -->
 
 # 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying in high school.\
+🎓 &nbsp;I'm currently studying in college.\
 🌱 &nbsp;I'm playing around with Machine Learning.\
 ✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com. \
-✉️ &nbsp;You can shoot me an email at chiraagkv@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 # 🛠 &nbsp;Tech Stack
@@ -29,8 +25,7 @@ __Frameworks and libraries__ \
 
 __IDEs/Editors__ \
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
+
 
 __Machine Learning/Deep Learning__ \
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
