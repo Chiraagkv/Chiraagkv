@@ -5,7 +5,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Chiraag -->
 
 # 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I'm currently studying in college.\
+🎓 &nbsp;I'm currently studying in IIIT-B.\
 🌱 &nbsp;I'm playing around with Machine Learning.\
 ✍️ &nbsp;In my free time, I write blogs on Machine Learning at: https://chiraagkv.medium.com.
 
